@@ -1,0 +1,20 @@
+/*
+  This file contains all the  custom layout related css of the app
+
+ */
+
+
+/*  */
+.content-area{
+ height:80vh;
+ overflow-y: auto;
+}
+
+.side-panel{
+  height:80vh;
+  overflow-y: auto;
+}
+
+.queue-header{
+  font-weight: bold;
+}
